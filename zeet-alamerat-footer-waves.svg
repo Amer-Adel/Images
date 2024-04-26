@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" style="&#10;">
 <path d="M 0 50 C 150 150 300 0 500 80 L 500 0 L 0 0" fill="#ffb8bc"/>
 <path d="M 0 50 C 150 150 330 -30 500 50 L 500 0 L 0 0" fill="#ff9ea6" opacity="0.8"/>
-<path d="M 0 50 C 215 150 250 0 500 100 L 500 0 L 0 0" fill="#ff9eaa" opacity="0.5"/>
+<path d="M 0 50 C 215 150 250 0 500 100 L 500 0 L 0 0" fill="#ff9ea6" opacity="0.5"/>
 </svg>
